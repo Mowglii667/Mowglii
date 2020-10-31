@@ -1,7 +1,3 @@
-Jm'ennuyait donc j'ai fais sa en htmk et css (page login):
-
-HTML:
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -48,5 +44,3 @@ HTML:
 
   </body>
 </html>
-
-
